@@ -95,6 +95,11 @@ fn main() {
         // Move the top n elements from one stack to another
         let mut temp_stack = stacks[from_stack].split_off(move_idx);
         stacks[to_stack].append(&mut temp_stack);
+
+        // Print the index and stack
+        for (i, stack) in stacks.iter().enumerate() {
+            println!("{}: {:?}", i+1, stack);
+        }
     }
 
     // Print the index and stack
