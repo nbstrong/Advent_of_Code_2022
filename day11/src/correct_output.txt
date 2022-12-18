@@ -1,0 +1,2569 @@
+### Round 1 ###
+Monkey 0: [78, 53, 89, 51, 52, 59, 58, 85]
+  Monkey 0 inspects 78 and it becomes 78
+    Item 78 goes to Monkey 7
+  Monkey 0 inspects 53 and it becomes 53
+    Item 53 goes to Monkey 7
+  Monkey 0 inspects 89 and it becomes 89
+    Item 89 goes to Monkey 7
+  Monkey 0 inspects 51 and it becomes 51
+    Item 51 goes to Monkey 7
+  Monkey 0 inspects 52 and it becomes 52
+    Item 52 goes to Monkey 7
+  Monkey 0 inspects 59 and it becomes 59
+    Item 59 goes to Monkey 7
+  Monkey 0 inspects 58 and it becomes 58
+    Item 58 goes to Monkey 7
+  Monkey 0 inspects 85 and it becomes 85
+    Item 85 goes to Monkey 2
+Monkey 1: [64]
+  Monkey 1 inspects 64 and it becomes 23
+    Item 23 goes to Monkey 6
+Monkey 2: [71, 93, 65, 82, 85]
+  Monkey 2 inspects 71 and it becomes 25
+    Item 25 goes to Monkey 4
+  Monkey 2 inspects 93 and it becomes 32
+    Item 32 goes to Monkey 4
+  Monkey 2 inspects 65 and it becomes 23
+    Item 23 goes to Monkey 4
+  Monkey 2 inspects 82 and it becomes 29
+    Item 29 goes to Monkey 4
+  Monkey 2 inspects 85 and it becomes 30
+    Item 30 goes to Monkey 4
+Monkey 3: [67, 73, 95, 75, 56, 74]
+  Monkey 3 inspects 67 and it becomes 25
+    Item 25 goes to Monkey 0
+  Monkey 3 inspects 73 and it becomes 27
+    Item 27 goes to Monkey 0
+  Monkey 3 inspects 95 and it becomes 34
+    Item 34 goes to Monkey 0
+  Monkey 3 inspects 75 and it becomes 27
+    Item 27 goes to Monkey 0
+  Monkey 3 inspects 56 and it becomes 21
+    Item 21 goes to Monkey 0
+  Monkey 3 inspects 74 and it becomes 27
+    Item 27 goes to Monkey 0
+Monkey 4: [85, 91, 90, 25, 32, 23, 29, 30]
+  Monkey 4 inspects 85 and it becomes 29
+    Item 29 goes to Monkey 1
+  Monkey 4 inspects 91 and it becomes 31
+    Item 31 goes to Monkey 1
+  Monkey 4 inspects 90 and it becomes 31
+    Item 31 goes to Monkey 1
+  Monkey 4 inspects 25 and it becomes 9
+    Item 9 goes to Monkey 1
+  Monkey 4 inspects 32 and it becomes 12
+    Item 12 goes to Monkey 1
+  Monkey 4 inspects 23 and it becomes 9
+    Item 9 goes to Monkey 1
+  Monkey 4 inspects 29 and it becomes 11
+    Item 11 goes to Monkey 3
+  Monkey 4 inspects 30 and it becomes 11
+    Item 11 goes to Monkey 3
+Monkey 5: [67, 96, 69, 55, 70, 83, 62]
+  Monkey 5 inspects 67 and it becomes 44
+    Item 44 goes to Monkey 1
+  Monkey 5 inspects 96 and it becomes 64
+    Item 64 goes to Monkey 1
+  Monkey 5 inspects 69 and it becomes 46
+    Item 46 goes to Monkey 1
+  Monkey 5 inspects 55 and it becomes 36
+    Item 36 goes to Monkey 4
+  Monkey 5 inspects 70 and it becomes 46
+    Item 46 goes to Monkey 1
+  Monkey 5 inspects 83 and it becomes 55
+    Item 55 goes to Monkey 1
+  Monkey 5 inspects 62 and it becomes 41
+    Item 41 goes to Monkey 1
+Monkey 6: [53, 86, 98, 70, 64, 23]
+  Monkey 6 inspects 53 and it becomes 19
+    Item 19 goes to Monkey 0
+  Monkey 6 inspects 86 and it becomes 30
+    Item 30 goes to Monkey 0
+  Monkey 6 inspects 98 and it becomes 34
+    Item 34 goes to Monkey 0
+  Monkey 6 inspects 70 and it becomes 25
+    Item 25 goes to Monkey 0
+  Monkey 6 inspects 64 and it becomes 23
+    Item 23 goes to Monkey 0
+  Monkey 6 inspects 23 and it becomes 9
+    Item 9 goes to Monkey 0
+Monkey 7: [88, 64, 78, 53, 89, 51, 52, 59, 58]
+  Monkey 7 inspects 88 and it becomes 2581
+    Item 2581 goes to Monkey 5
+  Monkey 7 inspects 64 and it becomes 1365
+    Item 1365 goes to Monkey 5
+  Monkey 7 inspects 78 and it becomes 2028
+    Item 2028 goes to Monkey 5
+  Monkey 7 inspects 53 and it becomes 936
+    Item 936 goes to Monkey 5
+  Monkey 7 inspects 89 and it becomes 2640
+    Item 2640 goes to Monkey 5
+  Monkey 7 inspects 51 and it becomes 867
+    Item 867 goes to Monkey 2
+  Monkey 7 inspects 52 and it becomes 901
+    Item 901 goes to Monkey 2
+  Monkey 7 inspects 59 and it becomes 1160
+    Item 1160 goes to Monkey 5
+  Monkey 7 inspects 58 and it becomes 1121
+    Item 1121 goes to Monkey 5
+### Round 2 ###
+Monkey 0: [25, 27, 34, 27, 21, 27, 19, 30, 34, 25, 23, 9]
+  Monkey 0 inspects 25 and it becomes 25
+    Item 25 goes to Monkey 2
+  Monkey 0 inspects 27 and it becomes 27
+    Item 27 goes to Monkey 7
+  Monkey 0 inspects 34 and it becomes 34
+    Item 34 goes to Monkey 7
+  Monkey 0 inspects 27 and it becomes 27
+    Item 27 goes to Monkey 7
+  Monkey 0 inspects 21 and it becomes 21
+    Item 21 goes to Monkey 7
+  Monkey 0 inspects 27 and it becomes 27
+    Item 27 goes to Monkey 7
+  Monkey 0 inspects 19 and it becomes 19
+    Item 19 goes to Monkey 7
+  Monkey 0 inspects 30 and it becomes 30
+    Item 30 goes to Monkey 2
+  Monkey 0 inspects 34 and it becomes 34
+    Item 34 goes to Monkey 7
+  Monkey 0 inspects 25 and it becomes 25
+    Item 25 goes to Monkey 2
+  Monkey 0 inspects 23 and it becomes 23
+    Item 23 goes to Monkey 7
+  Monkey 0 inspects 9 and it becomes 9
+    Item 9 goes to Monkey 7
+Monkey 1: [29, 31, 31, 9, 12, 9, 44, 64, 46, 46, 55, 41]
+  Monkey 1 inspects 29 and it becomes 12
+    Item 12 goes to Monkey 3
+  Monkey 1 inspects 31 and it becomes 12
+    Item 12 goes to Monkey 3
+  Monkey 1 inspects 31 and it becomes 12
+    Item 12 goes to Monkey 3
+  Monkey 1 inspects 9 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 12 and it becomes 6
+    Item 6 goes to Monkey 3
+  Monkey 1 inspects 9 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 44 and it becomes 17
+    Item 17 goes to Monkey 6
+  Monkey 1 inspects 64 and it becomes 23
+    Item 23 goes to Monkey 6
+  Monkey 1 inspects 46 and it becomes 17
+    Item 17 goes to Monkey 6
+  Monkey 1 inspects 46 and it becomes 17
+    Item 17 goes to Monkey 6
+  Monkey 1 inspects 55 and it becomes 20
+    Item 20 goes to Monkey 3
+  Monkey 1 inspects 41 and it becomes 16
+    Item 16 goes to Monkey 3
+Monkey 2: [867, 901, 25, 30, 25]
+  Monkey 2 inspects 867 and it becomes 290
+    Item 290 goes to Monkey 4
+  Monkey 2 inspects 901 and it becomes 302
+    Item 302 goes to Monkey 4
+  Monkey 2 inspects 25 and it becomes 10
+    Item 10 goes to Monkey 4
+  Monkey 2 inspects 30 and it becomes 11
+    Item 11 goes to Monkey 4
+  Monkey 2 inspects 25 and it becomes 10
+    Item 10 goes to Monkey 4
+Monkey 3: [11, 11, 12, 12, 12, 6, 20, 16]
+  Monkey 3 inspects 11 and it becomes 6
+    Item 6 goes to Monkey 0
+  Monkey 3 inspects 11 and it becomes 6
+    Item 6 goes to Monkey 0
+  Monkey 3 inspects 12 and it becomes 6
+    Item 6 goes to Monkey 0
+  Monkey 3 inspects 12 and it becomes 6
+    Item 6 goes to Monkey 0
+  Monkey 3 inspects 12 and it becomes 6
+    Item 6 goes to Monkey 0
+  Monkey 3 inspects 6 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 3 inspects 20 and it becomes 9
+    Item 9 goes to Monkey 0
+  Monkey 3 inspects 16 and it becomes 8
+    Item 8 goes to Monkey 0
+Monkey 4: [36, 290, 302, 10, 11, 10]
+  Monkey 4 inspects 36 and it becomes 13
+    Item 13 goes to Monkey 1
+  Monkey 4 inspects 290 and it becomes 98
+    Item 98 goes to Monkey 1
+  Monkey 4 inspects 302 and it becomes 102
+    Item 102 goes to Monkey 1
+  Monkey 4 inspects 10 and it becomes 4
+    Item 4 goes to Monkey 1
+  Monkey 4 inspects 11 and it becomes 5
+    Item 5 goes to Monkey 1
+  Monkey 4 inspects 10 and it becomes 4
+    Item 4 goes to Monkey 1
+Monkey 5: [2581, 1365, 2028, 936, 2640, 1160, 1121]
+  Monkey 5 inspects 2581 and it becomes 1720
+    Item 1720 goes to Monkey 1
+  Monkey 5 inspects 1365 and it becomes 910
+    Item 910 goes to Monkey 1
+  Monkey 5 inspects 2028 and it becomes 1352
+    Item 1352 goes to Monkey 1
+  Monkey 5 inspects 936 and it becomes 624
+    Item 624 goes to Monkey 4
+  Monkey 5 inspects 2640 and it becomes 1760
+    Item 1760 goes to Monkey 1
+  Monkey 5 inspects 1160 and it becomes 773
+    Item 773 goes to Monkey 1
+  Monkey 5 inspects 1121 and it becomes 747
+    Item 747 goes to Monkey 4
+Monkey 6: [5, 5, 17, 23, 17, 17]
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 17 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 6 inspects 23 and it becomes 9
+    Item 9 goes to Monkey 0
+  Monkey 6 inspects 17 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 6 inspects 17 and it becomes 7
+    Item 7 goes to Monkey 7
+Monkey 7: [27, 34, 27, 21, 27, 19, 34, 23, 9, 7, 7, 7]
+  Monkey 7 inspects 27 and it becomes 243
+    Item 243 goes to Monkey 5
+  Monkey 7 inspects 34 and it becomes 385
+    Item 385 goes to Monkey 5
+  Monkey 7 inspects 27 and it becomes 243
+    Item 243 goes to Monkey 5
+  Monkey 7 inspects 21 and it becomes 147
+    Item 147 goes to Monkey 5
+  Monkey 7 inspects 27 and it becomes 243
+    Item 243 goes to Monkey 5
+  Monkey 7 inspects 19 and it becomes 120
+    Item 120 goes to Monkey 5
+  Monkey 7 inspects 34 and it becomes 385
+    Item 385 goes to Monkey 5
+  Monkey 7 inspects 23 and it becomes 176
+    Item 176 goes to Monkey 5
+  Monkey 7 inspects 9 and it becomes 27
+    Item 27 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+### Round 3 ###
+Monkey 0: [6, 6, 6, 6, 6, 4, 9, 8, 3, 3, 9]
+  Monkey 0 inspects 6 and it becomes 6
+    Item 6 goes to Monkey 7
+  Monkey 0 inspects 6 and it becomes 6
+    Item 6 goes to Monkey 7
+  Monkey 0 inspects 6 and it becomes 6
+    Item 6 goes to Monkey 7
+  Monkey 0 inspects 6 and it becomes 6
+    Item 6 goes to Monkey 7
+  Monkey 0 inspects 6 and it becomes 6
+    Item 6 goes to Monkey 7
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 9 and it becomes 9
+    Item 9 goes to Monkey 7
+  Monkey 0 inspects 8 and it becomes 8
+    Item 8 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 9 and it becomes 9
+    Item 9 goes to Monkey 7
+Monkey 1: [13, 98, 102, 4, 5, 4, 1720, 910, 1352, 1760, 773]
+  Monkey 1 inspects 13 and it becomes 6
+    Item 6 goes to Monkey 3
+  Monkey 1 inspects 98 and it becomes 35
+    Item 35 goes to Monkey 6
+  Monkey 1 inspects 102 and it becomes 36
+    Item 36 goes to Monkey 3
+  Monkey 1 inspects 4 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 5 and it becomes 4
+    Item 4 goes to Monkey 3
+  Monkey 1 inspects 4 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 1720 and it becomes 575
+    Item 575 goes to Monkey 6
+  Monkey 1 inspects 910 and it becomes 305
+    Item 305 goes to Monkey 6
+  Monkey 1 inspects 1352 and it becomes 453
+    Item 453 goes to Monkey 6
+  Monkey 1 inspects 1760 and it becomes 589
+    Item 589 goes to Monkey 6
+  Monkey 1 inspects 773 and it becomes 260
+    Item 260 goes to Monkey 3
+Monkey 2: []
+Monkey 3: [6, 36, 4, 260]
+  Monkey 3 inspects 6 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 3 inspects 36 and it becomes 14
+    Item 14 goes to Monkey 0
+  Monkey 3 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 3 inspects 260 and it becomes 89
+    Item 89 goes to Monkey 0
+Monkey 4: [624, 747]
+  Monkey 4 inspects 624 and it becomes 209
+    Item 209 goes to Monkey 3
+  Monkey 4 inspects 747 and it becomes 250
+    Item 250 goes to Monkey 1
+Monkey 5: [243, 385, 243, 147, 243, 120, 385, 176, 27, 16, 16, 16]
+  Monkey 5 inspects 243 and it becomes 162
+    Item 162 goes to Monkey 4
+  Monkey 5 inspects 385 and it becomes 256
+    Item 256 goes to Monkey 1
+  Monkey 5 inspects 243 and it becomes 162
+    Item 162 goes to Monkey 4
+  Monkey 5 inspects 147 and it becomes 98
+    Item 98 goes to Monkey 1
+  Monkey 5 inspects 243 and it becomes 162
+    Item 162 goes to Monkey 4
+  Monkey 5 inspects 120 and it becomes 80
+    Item 80 goes to Monkey 1
+  Monkey 5 inspects 385 and it becomes 256
+    Item 256 goes to Monkey 1
+  Monkey 5 inspects 176 and it becomes 117
+    Item 117 goes to Monkey 4
+  Monkey 5 inspects 27 and it becomes 18
+    Item 18 goes to Monkey 4
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+Monkey 6: [35, 3, 3, 575, 305, 453, 589]
+  Monkey 6 inspects 35 and it becomes 13
+    Item 13 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 575 and it becomes 193
+    Item 193 goes to Monkey 0
+  Monkey 6 inspects 305 and it becomes 103
+    Item 103 goes to Monkey 0
+  Monkey 6 inspects 453 and it becomes 153
+    Item 153 goes to Monkey 0
+  Monkey 6 inspects 589 and it becomes 198
+    Item 198 goes to Monkey 0
+Monkey 7: [6, 6, 6, 6, 6, 4, 9, 8, 3, 3, 9]
+  Monkey 7 inspects 6 and it becomes 12
+    Item 12 goes to Monkey 5
+  Monkey 7 inspects 6 and it becomes 12
+    Item 12 goes to Monkey 5
+  Monkey 7 inspects 6 and it becomes 12
+    Item 12 goes to Monkey 5
+  Monkey 7 inspects 6 and it becomes 12
+    Item 12 goes to Monkey 5
+  Monkey 7 inspects 6 and it becomes 12
+    Item 12 goes to Monkey 5
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 9 and it becomes 27
+    Item 27 goes to Monkey 5
+  Monkey 7 inspects 8 and it becomes 21
+    Item 21 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 9 and it becomes 27
+    Item 27 goes to Monkey 5
+### Round 4 ###
+Monkey 0: [4, 14, 4, 89, 13, 3, 3, 193, 103, 153, 198]
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 14 and it becomes 14
+    Item 14 goes to Monkey 7
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 89 and it becomes 89
+    Item 89 goes to Monkey 7
+  Monkey 0 inspects 13 and it becomes 13
+    Item 13 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 193 and it becomes 193
+    Item 193 goes to Monkey 7
+  Monkey 0 inspects 103 and it becomes 103
+    Item 103 goes to Monkey 7
+  Monkey 0 inspects 153 and it becomes 153
+    Item 153 goes to Monkey 7
+  Monkey 0 inspects 198 and it becomes 198
+    Item 198 goes to Monkey 7
+Monkey 1: [250, 256, 98, 80, 256, 10, 10, 10]
+  Monkey 1 inspects 250 and it becomes 85
+    Item 85 goes to Monkey 6
+  Monkey 1 inspects 256 and it becomes 87
+    Item 87 goes to Monkey 6
+  Monkey 1 inspects 98 and it becomes 35
+    Item 35 goes to Monkey 6
+  Monkey 1 inspects 80 and it becomes 29
+    Item 29 goes to Monkey 6
+  Monkey 1 inspects 256 and it becomes 87
+    Item 87 goes to Monkey 6
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [209]
+  Monkey 3 inspects 209 and it becomes 72
+    Item 72 goes to Monkey 0
+Monkey 4: [162, 162, 162, 117, 18]
+  Monkey 4 inspects 162 and it becomes 55
+    Item 55 goes to Monkey 3
+  Monkey 4 inspects 162 and it becomes 55
+    Item 55 goes to Monkey 3
+  Monkey 4 inspects 162 and it becomes 55
+    Item 55 goes to Monkey 3
+  Monkey 4 inspects 117 and it becomes 40
+    Item 40 goes to Monkey 1
+  Monkey 4 inspects 18 and it becomes 7
+    Item 7 goes to Monkey 1
+Monkey 5: [12, 12, 12, 12, 12, 5, 27, 21, 3, 3, 27]
+  Monkey 5 inspects 12 and it becomes 8
+    Item 8 goes to Monkey 1
+  Monkey 5 inspects 12 and it becomes 8
+    Item 8 goes to Monkey 1
+  Monkey 5 inspects 12 and it becomes 8
+    Item 8 goes to Monkey 1
+  Monkey 5 inspects 12 and it becomes 8
+    Item 8 goes to Monkey 1
+  Monkey 5 inspects 12 and it becomes 8
+    Item 8 goes to Monkey 1
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 27 and it becomes 18
+    Item 18 goes to Monkey 4
+  Monkey 5 inspects 21 and it becomes 14
+    Item 14 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 27 and it becomes 18
+    Item 18 goes to Monkey 4
+Monkey 6: [85, 87, 35, 29, 87, 5, 5, 5]
+  Monkey 6 inspects 85 and it becomes 30
+    Item 30 goes to Monkey 0
+  Monkey 6 inspects 87 and it becomes 31
+    Item 31 goes to Monkey 0
+  Monkey 6 inspects 35 and it becomes 13
+    Item 13 goes to Monkey 0
+  Monkey 6 inspects 29 and it becomes 11
+    Item 11 goes to Monkey 0
+  Monkey 6 inspects 87 and it becomes 31
+    Item 31 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [4, 14, 4, 89, 13, 3, 3, 193, 103, 153, 198]
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 14 and it becomes 65
+    Item 65 goes to Monkey 5
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 89 and it becomes 2640
+    Item 2640 goes to Monkey 5
+  Monkey 7 inspects 13 and it becomes 56
+    Item 56 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 193 and it becomes 12416
+    Item 12416 goes to Monkey 5
+  Monkey 7 inspects 103 and it becomes 3536
+    Item 3536 goes to Monkey 2
+  Monkey 7 inspects 153 and it becomes 7803
+    Item 7803 goes to Monkey 2
+  Monkey 7 inspects 198 and it becomes 13068
+    Item 13068 goes to Monkey 5
+### Round 5 ###
+Monkey 0: [72, 30, 31, 13, 11, 31, 3, 3, 3]
+  Monkey 0 inspects 72 and it becomes 72
+    Item 72 goes to Monkey 7
+  Monkey 0 inspects 30 and it becomes 30
+    Item 30 goes to Monkey 2
+  Monkey 0 inspects 31 and it becomes 31
+    Item 31 goes to Monkey 7
+  Monkey 0 inspects 13 and it becomes 13
+    Item 13 goes to Monkey 7
+  Monkey 0 inspects 11 and it becomes 11
+    Item 11 goes to Monkey 7
+  Monkey 0 inspects 31 and it becomes 31
+    Item 31 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [40, 7, 8, 8, 8, 8, 8, 14, 2, 2]
+  Monkey 1 inspects 40 and it becomes 15
+    Item 15 goes to Monkey 6
+  Monkey 1 inspects 7 and it becomes 4
+    Item 4 goes to Monkey 3
+  Monkey 1 inspects 8 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 8 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 8 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 8 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 8 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: [3536, 7803, 30]
+  Monkey 2 inspects 3536 and it becomes 1180
+    Item 1180 goes to Monkey 4
+  Monkey 2 inspects 7803 and it becomes 2602
+    Item 2602 goes to Monkey 4
+  Monkey 2 inspects 30 and it becomes 11
+    Item 11 goes to Monkey 4
+Monkey 3: [55, 55, 55, 4]
+  Monkey 3 inspects 55 and it becomes 21
+    Item 21 goes to Monkey 0
+  Monkey 3 inspects 55 and it becomes 21
+    Item 21 goes to Monkey 0
+  Monkey 3 inspects 55 and it becomes 21
+    Item 21 goes to Monkey 0
+  Monkey 3 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 0
+Monkey 4: [3, 18, 18, 1180, 2602, 11]
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 18 and it becomes 7
+    Item 7 goes to Monkey 1
+  Monkey 4 inspects 18 and it becomes 7
+    Item 7 goes to Monkey 1
+  Monkey 4 inspects 1180 and it becomes 394
+    Item 394 goes to Monkey 1
+  Monkey 4 inspects 2602 and it becomes 868
+    Item 868 goes to Monkey 1
+  Monkey 4 inspects 11 and it becomes 5
+    Item 5 goes to Monkey 1
+Monkey 5: [5, 65, 5, 2640, 56, 3, 3, 12416, 13068]
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 65 and it becomes 43
+    Item 43 goes to Monkey 1
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 2640 and it becomes 1760
+    Item 1760 goes to Monkey 1
+  Monkey 5 inspects 56 and it becomes 37
+    Item 37 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 12416 and it becomes 8277
+    Item 8277 goes to Monkey 4
+  Monkey 5 inspects 13068 and it becomes 8712
+    Item 8712 goes to Monkey 4
+Monkey 6: [15, 5, 5, 5, 5, 5, 7, 3, 3]
+  Monkey 6 inspects 15 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 7 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [72, 31, 13, 11, 31, 3, 3, 3, 7]
+  Monkey 7 inspects 72 and it becomes 1728
+    Item 1728 goes to Monkey 5
+  Monkey 7 inspects 31 and it becomes 320
+    Item 320 goes to Monkey 5
+  Monkey 7 inspects 13 and it becomes 56
+    Item 56 goes to Monkey 5
+  Monkey 7 inspects 11 and it becomes 40
+    Item 40 goes to Monkey 5
+  Monkey 7 inspects 31 and it becomes 320
+    Item 320 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+### Round 6 ###
+Monkey 0: [21, 21, 21, 4, 3, 3, 3, 3, 3, 4, 3, 3]
+  Monkey 0 inspects 21 and it becomes 21
+    Item 21 goes to Monkey 7
+  Monkey 0 inspects 21 and it becomes 21
+    Item 21 goes to Monkey 7
+  Monkey 0 inspects 21 and it becomes 21
+    Item 21 goes to Monkey 7
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [2, 7, 7, 394, 868, 5, 43, 1760, 37, 2, 2]
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 7 and it becomes 4
+    Item 4 goes to Monkey 3
+  Monkey 1 inspects 7 and it becomes 4
+    Item 4 goes to Monkey 3
+  Monkey 1 inspects 394 and it becomes 133
+    Item 133 goes to Monkey 6
+  Monkey 1 inspects 868 and it becomes 291
+    Item 291 goes to Monkey 6
+  Monkey 1 inspects 5 and it becomes 4
+    Item 4 goes to Monkey 3
+  Monkey 1 inspects 43 and it becomes 16
+    Item 16 goes to Monkey 3
+  Monkey 1 inspects 1760 and it becomes 589
+    Item 589 goes to Monkey 6
+  Monkey 1 inspects 37 and it becomes 14
+    Item 14 goes to Monkey 3
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [4, 4, 4, 16, 14]
+  Monkey 3 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 3 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 3 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 3 inspects 16 and it becomes 8
+    Item 8 goes to Monkey 0
+  Monkey 3 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 0
+Monkey 4: [3, 3, 8277, 8712]
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 8277 and it becomes 2760
+    Item 2760 goes to Monkey 1
+  Monkey 4 inspects 8712 and it becomes 2905
+    Item 2905 goes to Monkey 1
+Monkey 5: [1728, 320, 56, 40, 320, 3, 3, 3, 16]
+  Monkey 5 inspects 1728 and it becomes 1152
+    Item 1152 goes to Monkey 4
+  Monkey 5 inspects 320 and it becomes 213
+    Item 213 goes to Monkey 4
+  Monkey 5 inspects 56 and it becomes 37
+    Item 37 goes to Monkey 1
+  Monkey 5 inspects 40 and it becomes 26
+    Item 26 goes to Monkey 1
+  Monkey 5 inspects 320 and it becomes 213
+    Item 213 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+Monkey 6: [3, 133, 291, 589, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 133 and it becomes 46
+    Item 46 goes to Monkey 0
+  Monkey 6 inspects 291 and it becomes 99
+    Item 99 goes to Monkey 0
+  Monkey 6 inspects 589 and it becomes 198
+    Item 198 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [21, 21, 21, 4, 3, 3, 3, 3, 3, 4, 3, 3]
+  Monkey 7 inspects 21 and it becomes 147
+    Item 147 goes to Monkey 5
+  Monkey 7 inspects 21 and it becomes 147
+    Item 147 goes to Monkey 5
+  Monkey 7 inspects 21 and it becomes 147
+    Item 147 goes to Monkey 5
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 7 ###
+Monkey 0: [4, 4, 4, 8, 7, 3, 46, 99, 198, 3, 3]
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 8 and it becomes 8
+    Item 8 goes to Monkey 7
+  Monkey 0 inspects 7 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 46 and it becomes 46
+    Item 46 goes to Monkey 7
+  Monkey 0 inspects 99 and it becomes 99
+    Item 99 goes to Monkey 7
+  Monkey 0 inspects 198 and it becomes 198
+    Item 198 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [2, 2, 2760, 2905, 37, 26, 2, 2, 2, 10]
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2760 and it becomes 922
+    Item 922 goes to Monkey 3
+  Monkey 1 inspects 2905 and it becomes 970
+    Item 970 goes to Monkey 3
+  Monkey 1 inspects 37 and it becomes 14
+    Item 14 goes to Monkey 3
+  Monkey 1 inspects 26 and it becomes 11
+    Item 11 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [922, 970, 14]
+  Monkey 3 inspects 922 and it becomes 310
+    Item 310 goes to Monkey 0
+  Monkey 3 inspects 970 and it becomes 326
+    Item 326 goes to Monkey 0
+  Monkey 3 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 0
+Monkey 4: [1152, 213, 213]
+  Monkey 4 inspects 1152 and it becomes 385
+    Item 385 goes to Monkey 3
+  Monkey 4 inspects 213 and it becomes 72
+    Item 72 goes to Monkey 1
+  Monkey 4 inspects 213 and it becomes 72
+    Item 72 goes to Monkey 1
+Monkey 5: [147, 147, 147, 5, 3, 3, 3, 3, 3, 5, 3, 3]
+  Monkey 5 inspects 147 and it becomes 98
+    Item 98 goes to Monkey 1
+  Monkey 5 inspects 147 and it becomes 98
+    Item 98 goes to Monkey 1
+  Monkey 5 inspects 147 and it becomes 98
+    Item 98 goes to Monkey 1
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 11, 3, 3, 3, 5]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 11 and it becomes 5
+    Item 5 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [4, 4, 4, 8, 7, 3, 46, 99, 198, 3, 3]
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 8 and it becomes 21
+    Item 21 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 46 and it becomes 705
+    Item 705 goes to Monkey 5
+  Monkey 7 inspects 99 and it becomes 3267
+    Item 3267 goes to Monkey 5
+  Monkey 7 inspects 198 and it becomes 13068
+    Item 13068 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 8 ###
+Monkey 0: [310, 326, 7, 3, 3, 5, 3, 3, 3, 3]
+  Monkey 0 inspects 310 and it becomes 310
+    Item 310 goes to Monkey 2
+  Monkey 0 inspects 326 and it becomes 326
+    Item 326 goes to Monkey 7
+  Monkey 0 inspects 7 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 5 and it becomes 5
+    Item 5 goes to Monkey 2
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [72, 72, 98, 98, 98, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 72 and it becomes 26
+    Item 26 goes to Monkey 3
+  Monkey 1 inspects 72 and it becomes 26
+    Item 26 goes to Monkey 3
+  Monkey 1 inspects 98 and it becomes 35
+    Item 35 goes to Monkey 6
+  Monkey 1 inspects 98 and it becomes 35
+    Item 35 goes to Monkey 6
+  Monkey 1 inspects 98 and it becomes 35
+    Item 35 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: [310, 5]
+  Monkey 2 inspects 310 and it becomes 105
+    Item 105 goes to Monkey 4
+  Monkey 2 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+Monkey 3: [385, 26, 26]
+  Monkey 3 inspects 385 and it becomes 131
+    Item 131 goes to Monkey 0
+  Monkey 3 inspects 26 and it becomes 11
+    Item 11 goes to Monkey 0
+  Monkey 3 inspects 26 and it becomes 11
+    Item 11 goes to Monkey 0
+Monkey 4: [3, 3, 105, 3]
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 105 and it becomes 36
+    Item 36 goes to Monkey 1
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 5: [5, 5, 5, 21, 16, 3, 705, 3267, 13068, 3, 3]
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 21 and it becomes 14
+    Item 14 goes to Monkey 1
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 705 and it becomes 470
+    Item 470 goes to Monkey 1
+  Monkey 5 inspects 3267 and it becomes 2178
+    Item 2178 goes to Monkey 4
+  Monkey 5 inspects 13068 and it becomes 8712
+    Item 8712 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [35, 35, 35, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 35 and it becomes 13
+    Item 13 goes to Monkey 0
+  Monkey 6 inspects 35 and it becomes 13
+    Item 13 goes to Monkey 0
+  Monkey 6 inspects 35 and it becomes 13
+    Item 13 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [326, 7, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 326 and it becomes 35425
+    Item 35425 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 9 ###
+Monkey 0: [131, 11, 11, 13, 13, 13, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 131 and it becomes 131
+    Item 131 goes to Monkey 7
+  Monkey 0 inspects 11 and it becomes 11
+    Item 11 goes to Monkey 7
+  Monkey 0 inspects 11 and it becomes 11
+    Item 11 goes to Monkey 7
+  Monkey 0 inspects 13 and it becomes 13
+    Item 13 goes to Monkey 7
+  Monkey 0 inspects 13 and it becomes 13
+    Item 13 goes to Monkey 7
+  Monkey 0 inspects 13 and it becomes 13
+    Item 13 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [2, 2, 36, 2, 14, 10, 2, 470, 2, 2]
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 36 and it becomes 14
+    Item 14 goes to Monkey 3
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 6
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 470 and it becomes 159
+    Item 159 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [14]
+  Monkey 3 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 0
+Monkey 4: [3, 3, 3, 2178, 8712]
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 2178 and it becomes 727
+    Item 727 goes to Monkey 1
+  Monkey 4 inspects 8712 and it becomes 2905
+    Item 2905 goes to Monkey 1
+Monkey 5: [35425, 16, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 35425 and it becomes 23616
+    Item 23616 goes to Monkey 4
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 7, 5, 3, 159, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 7 and it becomes 4
+    Item 4 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 159 and it becomes 55
+    Item 55 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [131, 11, 11, 13, 13, 13, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 131 and it becomes 5720
+    Item 5720 goes to Monkey 5
+  Monkey 7 inspects 11 and it becomes 40
+    Item 40 goes to Monkey 5
+  Monkey 7 inspects 11 and it becomes 40
+    Item 40 goes to Monkey 5
+  Monkey 7 inspects 13 and it becomes 56
+    Item 56 goes to Monkey 5
+  Monkey 7 inspects 13 and it becomes 56
+    Item 56 goes to Monkey 5
+  Monkey 7 inspects 13 and it becomes 56
+    Item 56 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 10 ###
+Monkey 0: [7, 3, 3, 3, 4, 3, 3, 55, 3, 3]
+  Monkey 0 inspects 7 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 4 and it becomes 4
+    Item 4 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 55 and it becomes 55
+    Item 55 goes to Monkey 2
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [2, 2, 2, 727, 2905, 10, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 727 and it becomes 244
+    Item 244 goes to Monkey 3
+  Monkey 1 inspects 2905 and it becomes 970
+    Item 970 goes to Monkey 3
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: [55]
+  Monkey 2 inspects 55 and it becomes 20
+    Item 20 goes to Monkey 4
+Monkey 3: [244, 970]
+  Monkey 3 inspects 244 and it becomes 84
+    Item 84 goes to Monkey 0
+  Monkey 3 inspects 970 and it becomes 326
+    Item 326 goes to Monkey 0
+Monkey 4: [23616, 20]
+  Monkey 4 inspects 23616 and it becomes 7873
+    Item 7873 goes to Monkey 1
+  Monkey 4 inspects 20 and it becomes 8
+    Item 8 goes to Monkey 1
+Monkey 5: [5720, 40, 40, 56, 56, 56, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 5720 and it becomes 3813
+    Item 3813 goes to Monkey 4
+  Monkey 5 inspects 40 and it becomes 26
+    Item 26 goes to Monkey 1
+  Monkey 5 inspects 40 and it becomes 26
+    Item 26 goes to Monkey 1
+  Monkey 5 inspects 56 and it becomes 37
+    Item 37 goes to Monkey 1
+  Monkey 5 inspects 56 and it becomes 37
+    Item 37 goes to Monkey 1
+  Monkey 5 inspects 56 and it becomes 37
+    Item 37 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 5, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [7, 3, 3, 3, 4, 3, 3, 3, 3]
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 4 and it becomes 5
+    Item 5 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 11 ###
+Monkey 0: [84, 326, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 84 and it becomes 84
+    Item 84 goes to Monkey 7
+  Monkey 0 inspects 326 and it becomes 326
+    Item 326 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [7873, 8, 26, 26, 37, 37, 37, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 7873 and it becomes 2626
+    Item 2626 goes to Monkey 3
+  Monkey 1 inspects 8 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 26 and it becomes 11
+    Item 11 goes to Monkey 6
+  Monkey 1 inspects 26 and it becomes 11
+    Item 11 goes to Monkey 6
+  Monkey 1 inspects 37 and it becomes 14
+    Item 14 goes to Monkey 3
+  Monkey 1 inspects 37 and it becomes 14
+    Item 14 goes to Monkey 3
+  Monkey 1 inspects 37 and it becomes 14
+    Item 14 goes to Monkey 3
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [2626, 14, 14, 14]
+  Monkey 3 inspects 2626 and it becomes 878
+    Item 878 goes to Monkey 0
+  Monkey 3 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 0
+  Monkey 3 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 0
+  Monkey 3 inspects 14 and it becomes 7
+    Item 7 goes to Monkey 0
+Monkey 4: [3813]
+  Monkey 4 inspects 3813 and it becomes 1272
+    Item 1272 goes to Monkey 1
+Monkey 5: [16, 3, 3, 3, 5, 3, 3, 3, 3]
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [5, 11, 11, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 11 and it becomes 5
+    Item 5 goes to Monkey 0
+  Monkey 6 inspects 11 and it becomes 5
+    Item 5 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [84, 326, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 84 and it becomes 2352
+    Item 2352 goes to Monkey 5
+  Monkey 7 inspects 326 and it becomes 35425
+    Item 35425 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 12 ###
+Monkey 0: [878, 7, 7, 7, 3, 5, 5, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 878 and it becomes 878
+    Item 878 goes to Monkey 7
+  Monkey 0 inspects 7 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 0 inspects 7 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 0 inspects 7 and it becomes 7
+    Item 7 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 5 and it becomes 5
+    Item 5 goes to Monkey 2
+  Monkey 0 inspects 5 and it becomes 5
+    Item 5 goes to Monkey 2
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [1272, 10, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 1272 and it becomes 426
+    Item 426 goes to Monkey 3
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: [5, 5]
+  Monkey 2 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+  Monkey 2 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 4
+Monkey 3: [426]
+  Monkey 3 inspects 426 and it becomes 144
+    Item 144 goes to Monkey 0
+Monkey 4: [3, 3, 3]
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 4 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 5: [2352, 35425, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 2352 and it becomes 1568
+    Item 1568 goes to Monkey 1
+  Monkey 5 inspects 35425 and it becomes 23616
+    Item 23616 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [5, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [878, 7, 7, 7, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 878 and it becomes 256961
+    Item 256961 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 7 and it becomes 16
+    Item 16 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 13 ###
+Monkey 0: [144, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 144 and it becomes 144
+    Item 144 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [2, 2, 2, 1568, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 1568 and it becomes 525
+    Item 525 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: []
+Monkey 4: [23616]
+  Monkey 4 inspects 23616 and it becomes 7873
+    Item 7873 goes to Monkey 1
+Monkey 5: [256961, 16, 16, 16, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 256961 and it becomes 171307
+    Item 171307 goes to Monkey 1
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 16 and it becomes 10
+    Item 10 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 525, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 525 and it becomes 177
+    Item 177 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [144, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 144 and it becomes 6912
+    Item 6912 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 14 ###
+Monkey 0: [3, 3, 3, 177, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 177 and it becomes 177
+    Item 177 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [7873, 171307, 10, 10, 10, 2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 7873 and it becomes 2626
+    Item 2626 goes to Monkey 3
+  Monkey 1 inspects 171307 and it becomes 57104
+    Item 57104 goes to Monkey 3
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 10 and it becomes 5
+    Item 5 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [2626, 57104]
+  Monkey 3 inspects 2626 and it becomes 878
+    Item 878 goes to Monkey 0
+  Monkey 3 inspects 57104 and it becomes 19037
+    Item 19037 goes to Monkey 0
+Monkey 4: []
+Monkey 5: [6912, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 6912 and it becomes 4608
+    Item 4608 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 5 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [3, 3, 3, 177, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 177 and it becomes 10443
+    Item 10443 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 15 ###
+Monkey 0: [878, 19037, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 878 and it becomes 878
+    Item 878 goes to Monkey 7
+  Monkey 0 inspects 19037 and it becomes 19037
+    Item 19037 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: []
+Monkey 4: [4608]
+  Monkey 4 inspects 4608 and it becomes 1537
+    Item 1537 goes to Monkey 1
+Monkey 5: [3, 3, 3, 10443, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 10443 and it becomes 6962
+    Item 6962 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [878, 19037, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 878 and it becomes 256961
+    Item 256961 goes to Monkey 5
+  Monkey 7 inspects 19037 and it becomes 120802456
+    Item 120802456 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 16 ###
+Monkey 0: [3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [1537, 2, 2, 2, 6962, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 1537 and it becomes 514
+    Item 514 goes to Monkey 3
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 6962 and it becomes 2323
+    Item 2323 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [514]
+  Monkey 3 inspects 514 and it becomes 174
+    Item 174 goes to Monkey 0
+Monkey 4: []
+Monkey 5: [256961, 120802456, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 256961 and it becomes 171307
+    Item 171307 goes to Monkey 1
+  Monkey 5 inspects 120802456 and it becomes 80534970
+    Item 80534970 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 2323, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 2323 and it becomes 776
+    Item 776 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 17 ###
+Monkey 0: [174, 3, 3, 3, 776, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 174 and it becomes 174
+    Item 174 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 776 and it becomes 776
+    Item 776 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [171307, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 171307 and it becomes 57104
+    Item 57104 goes to Monkey 3
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [57104]
+  Monkey 3 inspects 57104 and it becomes 19037
+    Item 19037 goes to Monkey 0
+Monkey 4: [80534970]
+  Monkey 4 inspects 80534970 and it becomes 26844991
+    Item 26844991 goes to Monkey 1
+Monkey 5: [3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [174, 3, 3, 3, 776, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 174 and it becomes 10092
+    Item 10092 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 776 and it becomes 200725
+    Item 200725 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 18 ###
+Monkey 0: [19037, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 19037 and it becomes 19037
+    Item 19037 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [26844991, 2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 26844991 and it becomes 8948332
+    Item 8948332 goes to Monkey 3
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: []
+Monkey 3: [8948332]
+  Monkey 3 inspects 8948332 and it becomes 2982780
+    Item 2982780 goes to Monkey 0
+Monkey 4: []
+Monkey 5: [10092, 3, 3, 3, 200725, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 10092 and it becomes 6728
+    Item 6728 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 200725 and it becomes 133816
+    Item 133816 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [19037, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 19037 and it becomes 120802456
+    Item 120802456 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 19 ###
+Monkey 0: [2982780, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 2982780 and it becomes 2982780
+    Item 2982780 goes to Monkey 2
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [6728, 2, 2, 2, 133816, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 6728 and it becomes 2245
+    Item 2245 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 133816 and it becomes 44607
+    Item 44607 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: [2982780]
+  Monkey 2 inspects 2982780 and it becomes 994261
+    Item 994261 goes to Monkey 4
+Monkey 3: []
+Monkey 4: [994261]
+  Monkey 4 inspects 994261 and it becomes 331421
+    Item 331421 goes to Monkey 1
+Monkey 5: [120802456, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 120802456 and it becomes 80534970
+    Item 80534970 goes to Monkey 4
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [2245, 3, 3, 3, 44607, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 2245 and it becomes 750
+    Item 750 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 44607 and it becomes 14871
+    Item 14871 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+### Round 20 ###
+Monkey 0: [750, 3, 3, 3, 14871, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 0 inspects 750 and it becomes 750
+    Item 750 goes to Monkey 2
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 14871 and it becomes 14871
+    Item 14871 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+  Monkey 0 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 7
+Monkey 1: [331421, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  Monkey 1 inspects 331421 and it becomes 110476
+    Item 110476 goes to Monkey 3
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+  Monkey 1 inspects 2 and it becomes 3
+    Item 3 goes to Monkey 6
+Monkey 2: [750]
+  Monkey 2 inspects 750 and it becomes 251
+    Item 251 goes to Monkey 4
+Monkey 3: [110476]
+  Monkey 3 inspects 110476 and it becomes 36828
+    Item 36828 goes to Monkey 0
+Monkey 4: [80534970, 251]
+  Monkey 4 inspects 80534970 and it becomes 26844991
+    Item 26844991 goes to Monkey 1
+  Monkey 4 inspects 251 and it becomes 85
+    Item 85 goes to Monkey 1
+Monkey 5: [3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+  Monkey 5 inspects 3 and it becomes 2
+    Item 2 goes to Monkey 1
+Monkey 6: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+  Monkey 6 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 0
+Monkey 7: [3, 3, 3, 14871, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 14871 and it becomes 73715547
+    Item 73715547 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+  Monkey 7 inspects 3 and it becomes 3
+    Item 3 goes to Monkey 5
+Monkey 0 inspect count: 228
+Monkey 1 inspect count: 218
+Monkey 2 inspect count: 20
+Monkey 3 inspect count: 48
+Monkey 4 inspect count: 55
+Monkey 5 inspect count: 211
+Monkey 6 inspect count: 188
+Monkey 7 inspect count: 222
+Max two inspect counts multiplied: 50616
